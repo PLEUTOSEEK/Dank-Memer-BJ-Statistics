@@ -1,0 +1,114 @@
+#===========================================WIN INFORMATION================================================================================
+
+{'footer': {'text': 'Percent Won: 160%'},
+
+'author': {
+  
+  'proxy_icon_url':'https://images-ext-1.discordapp.net/external/2Ir388gusO6mj9EOx0BaM7kubmJXglEn1NmkOUrXQQE/%3Fsize%3D256/https/cdn.discordapp.com/avatars/827497475941335080/fe4803ad4d57a088c8b7143fca39baef.png', 
+  
+  'name': "zhuoAAA's blackjack game", 
+  
+  'icon_url': 'https://cdn.discordapp.com/avatars/827497475941335080/fe4803ad4d57a088c8b7143fca39baef.png?size=256'
+
+},
+ 
+'fields': [
+   {
+    'value': 'Cards - **[`♥ 2`](https://google.com)  [`♥ 5`](https://google.com)  [`♣ 2`](https://google.com)  [`♦ 7`](https://google.com)  [`♦ 2`](https://google.com)**\nTotal - `18`',
+    
+    'name': 'zhuoAAA',
+    
+    'inline': True
+   }, 
+   
+   {
+    'value': 'Cards - **[`♠ 9`](https://google.com)  [`♥ 9`](https://google.com)**\nTotal - `18`', 
+   
+    'name': 'Dank Memer',
+   
+    'inline': True
+   }
+   
+   ],
+  
+'color': 5025616,
+   
+'type': 'rich',
+    
+'description': '**You win! You took 5 cards without going over 21.** \nYou won **⏣ 160**. You now have ⏣ 815.'}
+
+#=========================================TIED INFORMATION==================================================================================
+
+{'footer': {'text': 'Percent Won: 0%'},
+
+ 'author': {
+
+   'proxy_icon_url':'https://images-ext-1.discordapp.net/external/2Ir388gusO6mj9EOx0BaM7kubmJXglEn1NmkOUrXQQE/%3Fsize%3D256/https/cdn.discordapp.com/avatars/827497475941335080/fe4803ad4d57a088c8b7143fca39baef.png', 
+   
+   'name': "zhuoAAA's blackjack game",
+
+   'icon_url': 'https://cdn.discordapp.com/avatars/827497475941335080/fe4803ad4d57a088c8b7143fca39baef.png?size=256'
+
+  },
+ 
+  'fields': [
+    {
+      'value': 'Cards - **[`♠ 3`](https://google.com)  [`♠ 8`](https://google.com)  [`♦ 7`](https://google.com)**\nTotal - `18`',
+      
+      'name': 'zhuoAAA', 
+       
+      'inline': True
+    }, 
+       
+    {
+      'value': 'Cards - **[`♦ J`](https://google.com)  [`♥ 8`](https://google.com)**\nTotal - `18`',
+       
+      'name': 'Dank Memer',
+        
+      'inline': True
+    }
+  ], 
+  
+  'color': 16757504, 
+  
+  'type': 'rich', 
+  
+  'description': "**You tied with your opponent!** \nYour wallet hasn't changed! You have **⏣ 4,040** still."}
+
+#=========================================LOSE INFORMATION==================================================================================
+
+{'footer': {'text': 'Percent Won: 0%'},
+
+ 'author': {
+
+   'proxy_icon_url':'https://images-ext-1.discordapp.net/external/2Ir388gusO6mj9EOx0BaM7kubmJXglEn1NmkOUrXQQE/%3Fsize%3D256/https/cdn.discordapp.com/avatars/827497475941335080/fe4803ad4d57a088c8b7143fca39baef.png',
+   
+   'name': "zhuoAAA's blackjack game",
+    
+   'icon_url': 'https://cdn.discordapp.com/avatars/827497475941335080/fe4803ad4d57a088c8b7143fca39baef.png?size=256'
+     
+  },
+   
+  'fields': [
+    {
+      'value': 'Cards - **[`♣ 7`](https://google.com)  [`♥ 6`](https://google.com)  [`♠ 9`](https://google.com)**\nTotal - `22`',
+      
+      'name': 'zhuoAAA',
+       
+      'inline': True
+    },
+      
+    {
+      'value': 'Cards - **[`♥ 8`](https://google.com)  [`♥ 5`](https://google.com)**\nTotal - `13`',
+      
+      'name': 'Dank Memer',
+       
+      'inline': True
+    } 
+  ], 
+  
+  'color': 15022389,
+  
+  'type': 'rich',
+   
+  'description': '**You lose! Busted!** \nYou lost **⏣ 100**. You now have 4,154.'}
